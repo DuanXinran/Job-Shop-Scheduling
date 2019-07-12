@@ -1,0 +1,8 @@
+#canvas {
+	border:thin solid blue;
+	position: absolute;
+	visibility: inherit;
+	top:60px;
+	left:270px;
+}
+

@@ -1,0 +1,9 @@
+.show {
+    display: block;
+}
+.hidden {
+    display: none;
+}
+.cButton{
+    margin-top: 300px;
+}

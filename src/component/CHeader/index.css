@@ -1,0 +1,28 @@
+.header-top{
+    height: 50px;
+    line-height: 50px;
+    text-align: right;
+    padding:0 20px;
+   
+    margin-left: 5px;
+    box-shadow:  0 0 5px 0 #888888;
+    
+}
+.header-top a{
+    margin-right:20px;
+    width:50px;
+    float: right;
+}
+.header-date{
+    width: 100%;
+    text-align: right;
+    font-family: 'Times New Roman';
+    font-style: initial;
+} 
+
+.header-date span{
+padding-right: 20px;
+}
+a{
+    color:#1DA57A;
+}
